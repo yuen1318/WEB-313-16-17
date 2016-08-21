@@ -126,7 +126,7 @@ require 'db.php';
    <div class="modal-content">
      <div class="modal-header">
        <button type="button" class="close float-right" data-dismiss="modal">X</button>
-       <h4>Update Items</h4>
+       <h4>daba Items</h4>
      </div>
 
      <form action="update.php" method="post">
