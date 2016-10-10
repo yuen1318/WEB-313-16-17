@@ -1,0 +1,11 @@
+li{list-style-type:none !important;}
+header, main, footer {padding-left: 300px;}
+@media only screen and (max-width : 992px) {header, main, footer {padding-left: 0;}}
+.side-nav a{color: white !important;}
+.side-nav i{color: white !important;}
+i{cursor: pointer;}
+label{cursor: pointer !important;}
+body{background-color:#e0e0e0;}
+.chip{background-color: white !important;}
+button{background-color: #1e88e5 !important}
+a{color: white !important; }
